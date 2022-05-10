@@ -10,6 +10,13 @@ Booleanos to Frontend Developer with React for linkedIn:
 ("Hook" OR "Hooks" OR "ES6" OR "ECMA")
 
 
+React with AWS
+(“ES6” OR “ES7” OR “ES8” OR “ES9” OR “ES10”) AND  AWS
+(“ES6” OR “ES7” OR “ES8” OR “ES9” OR “ES10”) AND  AWS
+(“ES6” OR “ES7” OR “ES8” OR “ES9” OR “ES10”) AND  GraphQL
+("Typescript" OR "Typescript" OR "TS")AND 
+("React" OR "React.js" OR "reactjs" AND "AWS" OR "Amazon web services" AND "Typescript")
+
 
 
 Booleanos to QA Tester with JAVA OR KOTLIN for linkedIn:
@@ -17,3 +24,10 @@ Booleanos to QA Tester with JAVA OR KOTLIN for linkedIn:
 (Software tester OR "QA Testing" OR " QA Engineer" OR "Test Automation" OR "Testing mobile)
 (Software tester OR "QA Testing" OR " QA Engineer" OR "Test Automation)
 ("QA Testing" OR " QA Engineer" OR "Test Automation" OR "Testing mobile" OR "Junit") 
+
+
+Booleanos to Golang with AWS
+("Go" OR "Golang") AND ("AWS" OR "GraphQL")
+("Go" OR "Golang") AND ("AWS" OR "GraphQL") AND Typescript
+"Go" OR "Golang" AND "Package" OR "Go package"
+("Go" OR "Golang") AND ("AWS" OR "Amazon web services")
