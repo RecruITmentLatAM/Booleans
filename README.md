@@ -19,6 +19,7 @@ React with AWS
 
 
 
+
 Booleanos to QA Tester with JAVA OR KOTLIN for linkedIn:
 ("QA" OR "quality assurance" OR "tester" OR "quality analyst" OR "test engineer" OR "testing engineer")
 (Software tester OR "QA Testing" OR " QA Engineer" OR "Test Automation" OR "Testing mobile)
@@ -31,3 +32,4 @@ Booleanos to Golang with AWS
 ("Go" OR "Golang") AND ("AWS" OR "GraphQL") AND Typescript
 "Go" OR "Golang" AND "Package" OR "Go package"
 ("Go" OR "Golang") AND ("AWS" OR "Amazon web services")
+("Go" OR "Golang")  AND Typescript
