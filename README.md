@@ -33,3 +33,6 @@ Booleanos to Golang with AWS
 "Go" OR "Golang" AND "Package" OR "Go package"
 ("Go" OR "Golang") AND ("AWS" OR "Amazon web services")
 ("Go" OR "Golang")  AND Typescript
+
+
+("mobile designer" OR "UX\UI Mobile")
