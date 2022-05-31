@@ -44,5 +44,7 @@ Booleanos to Golang with AWS
 
 
 Java for microservices
+
 ("Java EE 6" OR "JavaEE6" AND "Java SE 8" OR "Java SE 11")
+
 ("Java EE 6" OR "JavaEE6" AND "Sync" OR "Async" AND "Microservices")
