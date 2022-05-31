@@ -34,5 +34,15 @@ Booleanos to Golang with AWS
 ("Go" OR "Golang") AND ("AWS" OR "Amazon web services")
 ("Go" OR "Golang")  AND Typescript
 
+("Senior Java developer" OR "Senior Java" OR "Senior Software engineer" AND Java AND AWS)
+("Senior .Net developer" OR "Senior .Net" OR "Senior Software engineer" AND ".net" OR ".Net core" AND AWS)
+
+
+
 
 ("mobile designer" OR "UX\UI Mobile")
+
+
+Java for microservices
+("Java EE 6" OR "JavaEE6" AND "Java SE 8" OR "Java SE 11")
+("Java EE 6" OR "JavaEE6" AND "Sync" OR "Async" AND "Microservices")
